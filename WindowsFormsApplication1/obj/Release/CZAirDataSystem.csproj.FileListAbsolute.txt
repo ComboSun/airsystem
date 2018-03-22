@@ -1,0 +1,13 @@
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\bin\Release\CZAirDataSystem.exe.config
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\bin\Release\CZAirDataSystem.exe
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\bin\Release\CZAirDataSystem.pdb
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\bin\Release\FtdAdapter.dll
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\bin\Release\log4net.dll
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\bin\Release\Modbus.dll
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\bin\Release\Unme.Common.dll
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\obj\Release\CZAirDataSystem.csprojResolveAssemblyReference.cache
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.CZFactoryAirSystem.resources
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\obj\Release\CZAirDataSystem.Properties.Resources.resources
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\obj\Release\CZAirDataSystem.csproj.GenerateResource.Cache
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\obj\Release\CZAirDataSystem.exe
+C:\Users\sunkb.CHENZHU\Desktop\CZFactoryAirConditionSystem1\WindowsFormsApplication1\obj\Release\CZAirDataSystem.pdb
